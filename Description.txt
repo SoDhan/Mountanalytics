@@ -1,0 +1,20 @@
+Hello All,
+This File is to give some details of the project that is intended to do here.
+I have written this file to give detailed description and scope of everything that is intended to do as a part of this project.
+.
+.
+.
+
+..
+.
+...
+..
+.
+.....
+......
+..
+
+.........
+Thanks for reading this.
+regards,
+Deepak ram Govardhanam
